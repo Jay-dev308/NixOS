@@ -6,3 +6,4 @@ result-*
 .local
 .bash_history
 result
+hardware-configuration.nix
