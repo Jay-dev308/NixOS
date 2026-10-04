@@ -1,0 +1,8 @@
+result
+result-*
+.ssh/
+.gnupg
+.cache
+.local
+.bash_history
+result
